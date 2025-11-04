@@ -1,5 +1,5 @@
 ![Base](logo.webp)
-
+<!--checking projects-->
 # Base Demo Applications
 
 A repository of demo applications that utilize Base and Coinbase Developer Platform products.
